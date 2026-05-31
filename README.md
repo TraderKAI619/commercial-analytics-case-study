@@ -3,8 +3,8 @@ Commercial analytics case studies using public datasets to demonstrate business 
 
 ## Top Smoking Rate Decline
 
-![Decline](charts/top_decline.png)
+![Decline](cases/case_001_regional_demand_analysis/charts/top_decline.png)
 
 ## Top Smoking Rate Increase
 
-![Increase](charts/top_increase.png)
+![Increase](cases/case_001_regional_demand_analysis/charts/top_increase.png)
